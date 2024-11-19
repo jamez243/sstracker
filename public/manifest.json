@@ -1,0 +1,8 @@
+{
+  "name": "Soccer Stat Tracker",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "short_name": "SSTracker",
+  "id": "sstracker",
+  "description": "For tracking your kids soccer scores and assists"
+}
